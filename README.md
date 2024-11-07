@@ -37,7 +37,14 @@ The architure is a simple LTSM based RNN where it have two layers of LTSM, one l
 
 
 ## Screenshots
-![Project Screenshot](path/to/screenshot.png)
+![Model_Archicture](https://github.com/user-attachments/assets/2897c59e-ae2f-48f0-959b-cce09ced5a37)
+![Model_Archicture_Compiler_Setting](https://github.com/user-attachments/assets/06185881-451c-4fa3-bf3b-85ab314c2455)
+![TensorBoard_Loss_Graph](https://github.com/user-attachments/assets/c1ca28e4-5e25-4d11-9b7a-2d4f5417fada)
+![TensorBoard_MAE_Graph](https://github.com/user-attachments/assets/6d736ac7-182b-4572-be7d-8ca0b4e17c6d)
+![Model_Evaluation](https://github.com/user-attachments/assets/7de633ec-2750-49d6-9bb8-83b4c3195697)
+![Pred_vs_True](https://github.com/user-attachments/assets/28b0ef9a-9d95-4c81-a440-7d70af8535e1)
+![Pred_vs_True_30_Days](https://github.com/user-attachments/assets/879523ca-e9a1-4d60-9526-b5ed3bc676e8)
+
 
 ## Acknowledgements
 - Thanks to [MoH - Malaysia](https://github.com/MoH-Malaysia/covid19-public) for their amazing library.
